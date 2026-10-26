@@ -5,7 +5,7 @@ need something, work out what they actually need, and then build it. Mostly in P
 back-ends, increasingly with AI coding agents doing the heavy lifting under clear specs and
 human judgement.
 
-📍 Novi Sad, Serbia · 💼 [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-rapai%C4%87-5b914427a) · 🌐 [chalkback.xyz](https://chalkback.xyz)
+📍 Novi Sad, Serbia · 💼 [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-rapai%C4%87-5b914427a) · 📘 [Chalkback project page](https://durapix.github.io/chalkback/) <sub>(on GitHub Pages)</sub>
 
 ---
 
@@ -23,8 +23,10 @@ released, documented and deployed by Claude Code on autopilot, with me setting t
 constraints and priorities. Branches, pull requests, CI, releases and an Ansible-managed
 production server, all in the open.
 
-**[Live demo](https://chalkback.xyz/app/)** · [Project page](https://durapix.github.io/chalkback/) ·
-[Docs](https://chalkback.xyz/docs/) · `Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `Ansible`
+📘 [Project page on GitHub](https://durapix.github.io/chalkback/) · 🌐 [The app itself: chalkback.xyz](https://chalkback.xyz)
+([live demo](https://chalkback.xyz/app/), [docs](https://chalkback.xyz/docs/))
+
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `Ansible`
 
 ## 🛠️ What I work on
 
