@@ -5,7 +5,7 @@ need something, work out what they actually need, and then build it. Mostly in P
 back-ends, increasingly with AI coding agents doing the heavy lifting under clear specs and
 human judgement.
 
-📍 Novi Sad, Serbia · 💼 [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-rapai%C4%87-5b914427a) · 📘 [Chalkback project page](https://durapix.github.io/chalkback/) <sub>(on GitHub Pages)</sub>
+📍 Novi Sad, Serbia · 💼 [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-rapai%C4%87-5b914427a)
 
 ---
 
